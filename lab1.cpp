@@ -1,3 +1,9 @@
+/**********************************
+ * Выполнил: Чепуштанов Е.П.
+ * Лаба 1, вариант 25
+ * https://onlinegdb.com/Qhehw6bX2
+***********************************/
+
 #include <iostream>
 #include <cmath>
 using namespace std;
