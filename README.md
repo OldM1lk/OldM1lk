@@ -5,3 +5,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OldM1lk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-OldM1lk&color=green)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OldM1lk&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OldM1lk&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OldM1lk&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OldM1lk&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OldM1lk&theme=solarized_dark)
